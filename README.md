@@ -4,6 +4,7 @@
 A modern, responsive portfolio website showcasing Front end expertise, Data Analytics expertise projects, and professional achievements. Built with cutting-edge web technologies and featuring interactive visualizations and smooth animations.
 
 ✨ Features
+
 🎨 Modern Design
 
 Responsive Layout: Mobile-first design that works seamlessly across all devices
