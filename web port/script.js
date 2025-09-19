@@ -9,8 +9,8 @@ AOS.init({
 const typingText = document.getElementById('typing');
 const phrases = [
     'Data Analyst',
-    'SQL Developer', 
     'FrontEnd developer',
+    'SQL Developer', 
     'Power-BI developer',
     'Problem Solver'
 ];
